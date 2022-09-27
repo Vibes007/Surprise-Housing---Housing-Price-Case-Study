@@ -109,7 +109,7 @@ And the top 10 features selected using ridge regression in order wise is,
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [(https://github.com/Vibes007)] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
